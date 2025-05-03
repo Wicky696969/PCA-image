@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PCA-image/.idea/PCA-image.iml" filepath="$USER_HOME$/PycharmProjects/PCA-image/.idea/PCA-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pca_image_compression_project.iml" filepath="$PROJECT_DIR$/.idea/pca_image_compression_project.iml" />
+    </modules>
+  </component>
+</project>
